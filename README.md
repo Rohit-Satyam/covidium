@@ -2,12 +2,13 @@
 
 This repository aims to share the version controlled processed data used by COVIDium. For any queries, please fill out our feedback form made available in the Compendium or open an issue here.
 
-### Release
-COVIDium is currently being maintained by Dr Raza Lab at Jamia Millia Islamia and is updated monthly with new databases, tools, packages, datasets and dashboards. Feel free to post a feature request and it will be reviewed and implemented.
-
 ### Databases Statistics
 
 ![enter image description here](https://i.imgur.com/VNf3Y7q.png)
+
+
+### Release
+COVIDium is currently being maintained by Dr Raza Lab at Jamia Millia Islamia and is updated monthly with new databases, tools, packages, datasets and dashboards. Feel free to post a feature request and it will be reviewed and implemented.
 
 ### COVIDium v1.1
 
