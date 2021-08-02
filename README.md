@@ -1,3 +1,4 @@
+![Alt Text](https://i.imgur.com/HtvnjLI.gif)
 ## COVIDium Processed Data Tables
 
 This repository aims to share the version controlled processed data used by COVIDium. For any queries, please fill out our feedback form made available in the Compendium or open an issue here.
